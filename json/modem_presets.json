@@ -7,5 +7,6 @@
   "5": "SHORT_SLOW",
   "6": "SHORT_FAST",
   "7": "LONG_MODERATE",
-  "8": "SHORT_TURBO"
+  "8": "SHORT_TURBO",
+  "9": "LONG_TURBO"
 }
