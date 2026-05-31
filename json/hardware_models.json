@@ -32,7 +32,7 @@
   "30": "RP2040_LORA",
   "31": "STATION_G2",
   "32": "LORA_RELAY_V1",
-  "33": "NRF52840DK",
+  "33": "T_ECHO_PLUS",
   "34": "PPR",
   "35": "GENIEBLOCKS",
   "36": "NRF52_UNKNOWN",
@@ -131,5 +131,10 @@
   "129": "THINKNODE_M7",
   "130": "THINKNODE_M8",
   "131": "THINKNODE_M9",
+  "132": "ELTEC_V4_R8",
+  "133": "ELTEC_MESH_NODE_T1",
+  "134": "STATION_G3",
+  "135": "T_IMPULSE_PLUS",
+  "136": "T_ECHO_CARD",
   "255": "PRIVATE_HW"
 }
