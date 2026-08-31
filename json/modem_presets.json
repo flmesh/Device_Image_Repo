@@ -12,5 +12,8 @@
   "10": "LITE_FAST",
   "11": "LITE_SLOW",
   "12": "NARROW_FAST",
-  "13": "NARROW_SLOW"
+  "13": "NARROW_SLOW",
+  "14": "TINY_FAST",
+  "15": "TINY_SLOW",
+  "16": "MEDIUM_TURBO"
 }
